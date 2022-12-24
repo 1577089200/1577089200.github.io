@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "华文细黑";
+	font-size: 20px;
+}
+#box{
+	margin: 0 auto;
+	width: 900px;
+	background:#959192
+}
+#header{
+	height: 120px;
+	width: 900px;
+	background:#FF0004;
+	margin-bottom: 5px;
+}
+#logo{
+	float: left;
+	width: 200px;
+	height: 50px;
+	background: #EFEE17
+}
+#banner{
+	float: right;
+	width: 200px;
+	height: 50px;
+	background:#0011FF;
+}
+#main{
+	width: 900px;
+	height: 200px;
+	margin-bottom: 5px;
+	background:#1D8F03
+}
+#menu{
+	float:none;
+	width: 200px;
+	height: 50px;
+	background:#265004;
+}
+#content{
+	float: right;
+	width: 695px;
+	height: 200px;
+	background:#00E3FF
+}
+#sidebar{
+    float: left;
+	width: 200px;
+	height: 200px;
+	background:#0100FF
+}
+#footer{
+	width: 900px;
+	height: 50px;
+	background:#FF0004
+}
