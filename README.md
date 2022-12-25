@@ -3,7 +3,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>主页</title>
 </head>
 <body>
  <h1>羊君山网页设计上机实验</h1>
